@@ -1,5 +1,5 @@
 
-;(function(window) {
+module.exports = (function(window) {
 	'use strict';
 
     // Blocks needed to create the icon
@@ -362,6 +362,6 @@
 		return this;
 	};
 
-	window.Marka = Marka;
+	return Marka;
 
 })(window);
