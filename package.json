@@ -7,7 +7,7 @@
   "bugs": {
     "url": "https://github.com/fians/marka/issues"
   },
-  "main": "marka.js",
+  "main": "index.js",
   "directories": {
     "doc": "docs"
   },
